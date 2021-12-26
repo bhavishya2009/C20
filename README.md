@@ -1,2 +1,1 @@
-# C20
-Balls bouncing, with physics engine.
+# C20-Student-boilerplate-code
